@@ -122,7 +122,7 @@ Os URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. 
   
   
 
-```git clone git@github.com:julianoalvescode/wooza.git```
+```git clone git@github.com:julianoalvescode/wooza.git``
 
   
   
