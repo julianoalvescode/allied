@@ -110,7 +110,7 @@
   
   
 
-```git clone https://github.com/julianoalvescode/teste-front.git```
+```git clone https://github.com/julianoalvescode/wooza.git``
 
   
   
@@ -122,7 +122,7 @@ Os URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. 
   
   
 
-```git clone git@github.com:julianoalvescode/teste-front.git```
+```git clone git@github.com:julianoalvescode/wooza.git```
 
   
   
